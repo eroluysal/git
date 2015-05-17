@@ -1,5 +1,7 @@
 * text=auto
 
+changes.md merge=union
+
 /tests/ export-ignore
 /build/ export-ignore
 .gitignore export-ignore
