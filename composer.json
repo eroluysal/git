@@ -1,0 +1,14 @@
+{
+    "name": "eroluysal/test-project",
+    "description": "Testing repository for git features.",
+    "authors": [
+        {
+            "name": "Erol Uysal",
+            "email": "eutkuuysal@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4.0"
+    }
+}
